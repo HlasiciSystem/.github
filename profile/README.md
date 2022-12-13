@@ -4,7 +4,7 @@ The system allows the teacher to keep track of which students currently have a q
 
 
 ## Admin
-- Has access to endpoints which allows him import new students and teachers. 
+- Has access to endpoints which allow him import new students and teachers. 
 - Can create groups including students and teachers.
 
 ## Teacher
